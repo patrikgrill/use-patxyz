@@ -1,0 +1,10 @@
+site_name: use pat.xyz
+site_description: 'use pat.xyz'
+site_author: 'pat.xyz'
+docs_dir: docs/
+repo_name: 'patrikgrill/use-patxyz'
+repo_url: 'https://github.com/patrikgrill/use-patxyz'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
